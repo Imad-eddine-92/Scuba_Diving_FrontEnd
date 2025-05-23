@@ -1,0 +1,15 @@
+@import url('https://unpkg.com/leaflet/dist/leaflet.css');
+
+.leaflet-container {
+  height: 500px;
+  width: 100%;
+}
+
+body{
+  height: 100vh;
+}
+.App {
+  text-align: center;
+  background-color: #4c494976;
+}
+
